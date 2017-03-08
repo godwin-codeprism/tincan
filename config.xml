@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>My Rise Course</name>
+    <name>Tin Can API - Sample Course</name>
 
     <description>
-        Test application for Articualte Rise.
+        Sample App Build with Tin Can API
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
